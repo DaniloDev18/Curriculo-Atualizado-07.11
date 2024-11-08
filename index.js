@@ -7,9 +7,9 @@ document.addEventListener("DOMContentLoaded", function() {
     submenu.style.display = "none";
 
     const projetos = [
-        { nome: "•  Projeto 1", link: "https://seulinkdoproyecto1.com" },
-        { nome: "•  Projeto 2", link: "https://seulinkdoproyecto2.com" },
-        { nome: "•  Projeto 3", link: "https://seulinkdoproyecto3.com" }
+        { nome: "•  Pset's Harvard", link: "https://github.com/DaniloDev18/Pset-s" },
+        { nome: "•  Jogo da Velha", link: "https://github.com/DaniloDev18/Jogo-da-Velha-com-Bot" },
+        { nome: "•  Tela Login", link: "https://danilodev18.github.io/Tela-Login-/" }
     ];
 
     projetos.forEach(projeto => {
